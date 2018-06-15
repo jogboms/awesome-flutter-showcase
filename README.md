@@ -18,3 +18,7 @@ Flutter is Google’s mobile app SDK for crafting high-quality native interfaces
 
 This is just me curating interesting unofficial demo flutter repositories i find on github and that can't make it into the [#awesome-flutter](https://github.com/Solido/awesome-flutter) master branch, no tutorials links. 
 
+## Templates
+
+[FlutterGames](https://github.com/searchy2/FlutterGames) <!--stargazers:searchy2/FlutterGames--> - Sample Flutter app for renting and buying games by [Ray Li](https://github.com/searchy2) 
+
