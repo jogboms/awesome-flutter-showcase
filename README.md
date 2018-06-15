@@ -29,7 +29,7 @@ This is just me curating interesting unofficial and <b>*AETHESTICALLY*</b>-pleas
         <a href="https://github.com/searchy2/FlutterGames">
           FlutterGames
           <!--stargazers:searchy2/FlutterGames-->
-        </a> @<a href="https://github.com/searchy2">Ray Li</a>
+        </a> <br/> @<a href="https://github.com/searchy2">Ray Li</a>
       </td>
       <td align="center">
         <img src="https://github.com/GeekyAnts/flutter-login-home-animation/raw/master/dribbbledanimation/ScreenGif/Login_Animation.gif" title="Sample Flutter app for renting and buying games" width="200px" />
@@ -37,7 +37,7 @@ This is just me curating interesting unofficial and <b>*AETHESTICALLY*</b>-pleas
         <a href="https://github.com/GeekyAnts/flutter-login-home-animation">
           Login Animation
           <!--stargazers:searchy2/FlutterGames-->
-        </a> @<a href="https://github.com/GeekyAnts">GeekyAnts</a>
+        </a> <br/> @<a href="https://github.com/GeekyAnts">GeekyAnts</a>
       </td>
     </tr>
   </tbody>
